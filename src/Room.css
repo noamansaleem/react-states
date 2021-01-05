@@ -1,0 +1,15 @@
+.room {
+    height: 100%;
+    /* color: yellow; */
+    background-color: tomato;
+}
+
+.lit {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
